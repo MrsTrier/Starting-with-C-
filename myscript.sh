@@ -6,4 +6,7 @@ echo Here are the files in your current directory:
 ls
 
 echo Here is the current derectory u are in:
-pwd 
+pwd
+
+echo Here is files inside your home derectory:
+ ls ~/
